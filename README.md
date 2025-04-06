@@ -1,6 +1,6 @@
-# 🔐 LoginUI-Collection
+# 🔐 WebForms-Collection
 
-Welcome to **LoginUI-Collection** – a community-driven collection of beautiful, responsive, and creative login forms built using **HTML**, **CSS**, and **JavaScript**.
+Welcome to **WebForms-Collection** – a community-driven collection of beautiful, responsive, and creative login forms built using **HTML**, **CSS**, and **JavaScript**.
 
 Whether you're a beginner practicing frontend skills or a seasoned dev showcasing your creativity, this repo is open for **everyone** to contribute and explore cool login UI designs.
 
